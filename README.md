@@ -7,3 +7,6 @@ Setup:
 3) Open program
 4) Set up each account (Create Account -> Username/Password -> Save, repeat)
 5) Create a profile in IsBoxer for each account
+https://github.com/Playos/IsBridgeUp/blob/master/SampleSetup.PNG
+6) Assign each profile to character
+
